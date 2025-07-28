@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # brain-tumor-classification
+=======
+🧠 Brain Tumor Classification using Naive Bayes
+>>>>>>> master
 
 This project builds a machine learning model to classify brain tumor types using gene expression data, applying Gaussian Naive Bayes and evaluating performance with cross-validation.
 
